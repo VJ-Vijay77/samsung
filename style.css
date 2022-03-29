@@ -679,3 +679,10 @@ a.menui{
 .mainbody{
     margin: 12px;
 }
+
+.forhover{
+    transition: .5s;
+}
+.forhover:hover{
+    transform: scale(1.1);
+}
